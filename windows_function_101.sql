@@ -24,4 +24,6 @@ insert into sample (emp_name, job, salary) values
 ('PURVA','ANALYST', 2500),
 ('SHAROON','DATA SCIENTIST', 3000),
 ('PULKITA','DATA SCIENTIST', 3500),
-('KUNAL', 'MANAGER', 5000);
+('KUNAL', 'MANAGER', 5000),
+('NEHA', 'MANAGER', 2300)
+;
